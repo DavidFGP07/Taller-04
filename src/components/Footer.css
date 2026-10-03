@@ -1,0 +1,12 @@
+.footer {
+  padding: 26px 24px;
+  text-align: center;
+  background: var(--footer-bg);
+  color: var(--text-muted);
+  font-size: 14px;
+}
+
+.footer__brand {
+  color: var(--pink);
+  font-weight: 700;
+}
